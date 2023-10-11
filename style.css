@@ -45,7 +45,7 @@
 
 .header .do-you-have-an-accou {
   position: absolute;
-  top: 529px;
+  top: 510px;
   left: 100px;
   font-family: var(--text-article-font-family);
   font-weight: var(--text-article-font-weight);
@@ -152,7 +152,7 @@
 
 .header .checkbox-checked {
   position: absolute;
-  width: 267px;
+  width: 9px;
   height: 26px;
   top: 284px;
   left: 70px;
@@ -160,7 +160,7 @@
 
 .header .checked {
   position: absolute;
-  top: 0;
+  top: -16px;
   left: 37px;
   font-family: var(--text-paragraph-font-family);
   font-weight: var(--text-paragraph-font-weight);
